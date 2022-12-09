@@ -1,0 +1,36 @@
+.page-container {
+    /* opacity: 0%; */
+}
+
+.img-banner-size {
+    width: 200px;
+    height: 200px;
+
+    padding: 3px;
+    box-shadow: black 3px 3px 6px 7px;
+    /* background-color: green; */
+}
+
+.banner-wrapper {
+    margin: 30px;
+    z-index: 1;
+}
+
+.page-container {
+    margin: 0px auto;
+    width: 90%;
+}
+
+.row {
+    margin-bottom: 30px;
+}
+
+
+.context .banner-wrapper:hover   {
+    background-color: rgb(83, 102, 117);
+}
+
+.navbar {
+    z-index: 2;
+}
+
